@@ -1,0 +1,10 @@
+public class Item
+{
+    public Item (int _itemId)
+    {
+        itemId = _itemId;
+    }
+
+    public int itemId;
+    
+}
